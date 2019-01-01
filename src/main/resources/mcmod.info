@@ -1,0 +1,16 @@
+[
+{
+    "modid": "thaumcraftnoresearch",
+    "name": "Thaumcraft No Research",
+    "description": "Removes the need in research mini-game by giving players a bunch of theory/observation knowledge levels.",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Rinart73"],
+    "credits": "Rinart73",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["thaumcraft"]
+}
+]
